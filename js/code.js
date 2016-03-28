@@ -102,7 +102,7 @@ return false;
 $(".swipebox").swipebox();
 });
 $(function() {
-$('#tabsmenu').tabify();
+$('.tabsmenu').tabify();
 $(".videocontainer").fitVids();
 $(".toggle_container").hide();
 $(".toggle_container_blog").hide();
