@@ -52,6 +52,7 @@ h2.post_title{ font-size:26px;padding:0 0 20px 0; line-height:28px;}
 .swiper-active-switch {background: #fff;}
 /*----------header and footer buttons---------------*/
 .gohome{ width:40px; height:40px; float:left; margin:0 0 0 10px;}
+.gotitle{  font-weight:bold; font-size:12px;  text-align:center;}
 .gohome a{ color:#FFFFFF; text-decoration:none; font-weight:bold; font-size:12px; display:block; text-align:center;}
 .gohome a img{display:inline-block;max-height:25px; margin:5px 0 0 0;}
 
@@ -59,7 +60,7 @@ h2.post_title{ font-size:26px;padding:0 0 20px 0; line-height:28px;}
 .gohomemenu a{ color:#FFFFFF; text-decoration:none; font-weight:bold; font-size:12px; display:block; text-align:center;}
 .gohomemenu a img{display:inline-block;max-height:25px; margin:7px 0 0 0;}
 
-.gomenu{ width:40px; height:40px;float:right;margin:0 10px 0 0;}
+.gomenu{ height:40px;float:right;margin:0 10px 0 0;}
 .gomenu a{ color:#FFFFFF; text-decoration:none; font-weight:bold; font-size:12px; display:block; text-align:center;}
 .gomenu a img{display:inline-block;max-height:25px; margin:6px 0 0 0;}
 
